@@ -1,7 +1,7 @@
 [
     {
       "nombre": "Goku",
-      "imagen": "https://static.wikia.nocookie.net/dragonball/images/c/c0/Son_Goku_en_Super_Hero.png/revision/latest?cb=20220302091733&path-prefix=es" ,
+      "imagen": "https://static.wikia.nocookie.net/dragonball/images/c/c0/Son_Goku_en_Super_Hero.png/revision/latest?cb=20220302091733&path-prefix=es",
       "raza": "Saiyajin",
       "nivel_poder": 150000000,
       "tecnicas": ["Kamehameha", "Genkidama"],
@@ -9,7 +9,7 @@
     },
     {
       "nombre": "Vegeta",
-      "imagen": "https://www.pngplay.com/wp-content/uploads/12/Vegeta-Free-PNG.png" ,
+      "imagen": "https://www.pngplay.com/wp-content/uploads/12/Vegeta-Free-PNG.png",
       "raza": "Saiyajin",
       "nivel_poder": 140000000,
       "tecnicas": ["Galick Ho", "Big Bang Attack"],
@@ -17,7 +17,7 @@
     },
     {
       "nombre": "Piccolo",
-      "imagen": "https://i.namu.wiki/i/RK0fWrv9IMgn9_-erjlUtPDIQ7pNhntGRPGPJ8RB7tPiSdn3VDVtMak-o6Hm-o6jb594k94ffW_hSzwx_B3tkg.webp" ,
+      "imagen": "https://i.namu.wiki/i/RK0fWrv9IMgn9_-erjlUtPDIQ7pNhntGRPGPJ8RB7tPiSdn3VDVtMak-o6Hm-o6jb594k94ffW_hSzwx_B3tkg.webp",
       "raza": "Namekiano",
       "nivel_poder": 120000000,
       "tecnicas": ["Makankosappo", "Rayo Demoníaco"],
@@ -31,7 +31,7 @@
       "tecnicas": ["Masenko", "Kamehameha"],
       "transformaciones": ["Super Saiyajin 2", "Gohan Definitivo"]
     },
-      {
+    {
       "nombre": "Freezer",
       "imagen": "https://static.wikia.nocookie.net/dragonball/images/c/c9/Freeza_Negro_en_Dragon_Ball_Super.png/revision/latest?cb=20230601172412&path-prefix=es",
       "raza": "Desconocida",
@@ -39,4 +39,4 @@
       "tecnicas": ["Rayo de la muerte", "Supernova"],
       "transformaciones": ["Forma final", "Freezer dorado"]
     }
-  ]
+]
