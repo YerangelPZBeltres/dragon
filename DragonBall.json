@@ -1,0 +1,42 @@
+[
+    {
+      "nombre": "Goku",
+      "imagen": "https://static.wikia.nocookie.net/dragonball/images/c/c0/Son_Goku_en_Super_Hero.png/revision/latest?cb=20220302091733&path-prefix=es" ,
+      "raza": "Saiyajin",
+      "nivel_poder": 150000000,
+      "tecnicas": ["Kamehameha", "Genkidama"],
+      "transformaciones": ["Super Saiyajin", "Super Saiyajin 3"]
+    },
+    {
+      "nombre": "Vegeta",
+      "imagen": "https://www.pngplay.com/wp-content/uploads/12/Vegeta-Free-PNG.png" ,
+      "raza": "Saiyajin",
+      "nivel_poder": 140000000,
+      "tecnicas": ["Galick Ho", "Big Bang Attack"],
+      "transformaciones": ["Super Saiyajin", "Super Saiyajin Blue"]
+    },
+    {
+      "nombre": "Piccolo",
+      "imagen": "https://i.namu.wiki/i/RK0fWrv9IMgn9_-erjlUtPDIQ7pNhntGRPGPJ8RB7tPiSdn3VDVtMak-o6Hm-o6jb594k94ffW_hSzwx_B3tkg.webp" ,
+      "raza": "Namekiano",
+      "nivel_poder": 120000000,
+      "tecnicas": ["Makankosappo", "Rayo Demoníaco"],
+      "transformaciones": ["Namekiano Gigante"]
+    },
+    {
+      "nombre": "Gohan",
+      "imagen": "https://preview.redd.it/4vi61rx1dnu91.png?width=640&crop=smart&auto=webp&s=77e6b73ea7ce903a9fc3e060cb3ebd26ff2c2860",
+      "raza": "Híbrido (Saiyajin/Humano)",
+      "nivel_poder": 130000000,
+      "tecnicas": ["Masenko", "Kamehameha"],
+      "transformaciones": ["Super Saiyajin 2", "Gohan Definitivo"]
+    },
+      {
+      "nombre": "Freezer",
+      "imagen": "https://static.wikia.nocookie.net/dragonball/images/c/c9/Freeza_Negro_en_Dragon_Ball_Super.png/revision/latest?cb=20230601172412&path-prefix=es",
+      "raza": "Desconocida",
+      "nivel_poder": 160000000,
+      "tecnicas": ["Rayo de la muerte", "Supernova"],
+      "transformaciones": ["Forma final", "Freezer dorado"]
+    }
+  ]
